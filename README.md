@@ -19,17 +19,11 @@ Training MSE: 831,456.62
 Testing MSE: 828,194.22
 R² Score: 0.2034 (20.34% variance explained)
 
-📁 Project Structure
 
-carbon_prediction.py - Main model code
-carbon_footprint_data.csv - Dataset
-predictions.csv - Model predictions
-requirements.txt - Dependencies
 
 🎯 Key Features
 
 Data preprocessing with categorical encoding
-Feature correlation analysis
 Linear regression modeling
 Performance visualization
 Results export
@@ -37,7 +31,6 @@ Results export
 📊 Visualizations
 The project generates several plots:
 
-Feature correlation heatmap
 Actual vs Predicted scatter plot
 Feature importance chart
 Model performance metrics
