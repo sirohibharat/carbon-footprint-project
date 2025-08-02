@@ -5,7 +5,6 @@ A machine learning project that predicts carbon emissions based on lifestyle fac
 ## 📊 Project Overview
 - **Objective**: Predict weekly carbon emissions using diet, transport, and energy efficiency data
 - **Algorithm**: Linear Regression
-- **Performance**: R² Score of 20.34%
 
 ## 🔧 Technologies Used
 - Python 3.12
@@ -13,11 +12,6 @@ A machine learning project that predicts carbon emissions based on lifestyle fac
 - Scikit-learn
 - Matplotlib, Seaborn
 
-📈 Results
-
-Training MSE: 831,456.62
-Testing MSE: 828,194.22
-R² Score: 0.2034 (20.34% variance explained)
 
 
 
